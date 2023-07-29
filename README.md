@@ -1,4 +1,7 @@
 # My_portfolio
+This is the portfolio website developed using react js , tailwind css .
+Framer motion and animations had also been used .
+people can send emails directly through this website and also download my cv.
 ![Screenshot (51)](https://github.com/VanshikaChandan/My_portfolio/assets/128304440/74479c4a-1709-4f89-8dae-5077a7fb8a86)
 ![Screenshot (50)](https://github.com/VanshikaChandan/My_portfolio/assets/128304440/d2bdbdb1-9bba-4880-a7d4-a4076a19bc8a)
 ![Screenshot (49)](https://github.com/VanshikaChandan/My_portfolio/assets/128304440/e531a70e-e044-4376-9e76-d277945ce01c)
